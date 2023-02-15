@@ -2,5 +2,5 @@
 
 LIVE SITE URL - (https://harshithrao07.github.io/Simon-Game/)
 
-![](simon game home.png)
-![](simon game fail.png)
+![](screenshots/simon-game1.png)
+![](screenshots/simon-game2.png)
